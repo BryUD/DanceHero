@@ -2,7 +2,14 @@ using UnityEngine;
 
 public class Lane : MonoBehaviour
 {
-[SerializeField]
+   [SerializeField]
 
-private Transform notesPivot;
+   private Transform notesPivot;
+   [SerializeField]
+
+   private GameObject notePrefab;
+
+   public GameObject NotePrefab => notePrefab;
+
+   public Transform NotesPivot => notesPivot;
 }

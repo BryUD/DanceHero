@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f853f5aeeb82f5f40a7660dd74e8b752, type: 3}
-  m_Name: Salsa
+  m_Name: LaBamba
   m_EditorClassIdentifier: Assembly-CSharp::SongData
-  songName: OyeMujer
-  animationName: SalsaDancing
+  songName: LaBamba
+  animationName: ElvisDance
+  notesConfig: {fileID: 4900000, guid: a65b5bf5fa2000e42baa4da450a645a2, type: 3}
+  speed: 200

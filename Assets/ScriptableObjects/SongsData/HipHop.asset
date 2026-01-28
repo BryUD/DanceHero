@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   songName: Breakdance
   animationName: HipHopDance
+  notesConfig: {fileID: 4900000, guid: a65b5bf5fa2000e42baa4da450a645a2, type: 3}
+  speed: 200
