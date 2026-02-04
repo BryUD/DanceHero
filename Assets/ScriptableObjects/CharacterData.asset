@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharacterData
   idleAnimationName: HappyIdle
   readyAnimationName: ReadyToDance
+  failAnimationName: Hit
+  failSoundName: Alerta
