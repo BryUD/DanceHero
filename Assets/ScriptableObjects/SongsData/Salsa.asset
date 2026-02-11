@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   songName: OyeMujer
   animationName: SalsaDancing
-  notesConfig: {fileID: 4900000, guid: a65b5bf5fa2000e42baa4da450a645a2, type: 3}
+  notesConfig: {fileID: 4900000, guid: f6d4cd6641c314f47b382b64c0ea6f3d, type: 3}
   speed: 200
